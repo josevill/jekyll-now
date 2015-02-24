@@ -10,3 +10,11 @@ Whenever i'm on my throne, i do any kind of stuff when sitting there. (Alright, 
 In the time being, i've jumped around my chrome tabs at least for 20 mins, totally stopped writing or thinking about what i was going to write here. So i decided to install this [magical tool, Procasti-Tracker](http://strlen.com/procrastitracker/).
 
 ![Behold](http://i.imgur.com/7l8x9Yy.png)
+
+That's how the program's staticstics looks like. As you can see i have to actually read how to use markdown, this is my very first time using it, totally proud of it. I might spend a lot of time in this new program i've downloaded to type and preview live my progress. (HarooPad, looks awesome and it does what i needed, so if it fits, it works.)
+
+I might keep an eye on how my "procastinating issues" develop. I'm growing old, although many people say: You're so young!, You shouldn't even think about your age!. I know what i'm thinking, and it's sort of messed up.
+
+I might write up about those thoughts later on, but for now.
+
+**LET THE PROCASTINATING ME DO IT'S JOB!**
