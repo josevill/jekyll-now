@@ -1,18 +1,49 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jose Viloria - kBono</title>
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">    
-      
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/yeti/bootstrap.min.css" rel="stylesheet" integrity="sha256-gJ9rCvTS5xodBImuaUYf1WfbdDKq54HCPz9wk8spvGs= sha512-weqt+X3kGDDAW9V32W7bWc6aSNCMGNQsdOpfJJz/qD/Yhp+kNeR+YyvvWojJ+afETB31L0C4eO0pcygxfTgjgw==" crossorigin="anonymous">
 
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center">Hello World</h1>
+      <img width="200px" src="https://avatars1.githubusercontent.com/u/1178493" class="img-responsive img-thumbnail center-block">
+      <h3 class="text-center">I am Jose&#769; Viloria.<br>
+        22 years old atm (Born on April 21st, 1993). <br>
+        I was once a hardcore gamer,<br>
+        Like a real hardcore gamer.<br>
+        I decided to become a Full-Stack Web Developer,<br>
+        because it's my real strength.<br>
+        Follow these links if you're interested in anything about me.</h3>
+      <br><br><br>
+      <div class="row">
+        <div class="col-md-4">
+          <h4 class="text-center"><a href="./blog">Blog</a></h4>
+        </div>
+        <div class="col-md-4">
+          <h4 class="text-center"><a href="./portfolio">Portfolio</a></h4>
+        </div>
+        <div class="col-md-4">
+          <h4 class="text-center"><a href="http://github.com/josevill">Github</a></h4>
+        </div>
       </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+    </div>
+    
+    <!-- jQuery -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  </body>
+</html>
